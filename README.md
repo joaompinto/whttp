@@ -13,7 +13,7 @@ pip install whttp
 ```
 
 # How to use (CLI)
-whttp URL
+whttp https://www.example.org/
 
 # How to use (Python Library)
 ```python
